@@ -287,6 +287,12 @@ All interpretations, extensions, and remaining limitations are my own.
 
 ---
 
+## Stability
+
+The conceptual stability boundary of this repository is defined in `STABILITY.md
+
+---
+
 ## Philosophy
 
 > **Knowledge should accumulate.  
