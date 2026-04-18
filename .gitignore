@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+
+# Obsidian workspace state
+.obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude / agent runtime
+.claude/
+
+# Temporary and trash files
+.trash/
+*.tmp
+raw/*
+!raw/README.md
+
+brainstorming/*
+!brainstorming/README.md
+
+artifacts/*
+!artifacts/README.md
